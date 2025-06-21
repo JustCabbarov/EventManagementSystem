@@ -67,7 +67,7 @@ namespace EventMenegmentSL.Services.Implementation
                 User=ui.User,
                 UserId = ui.UserId,
                 Title = ui.Invitation.Title,
-                EventDate = ui.Invitation.EventDate,
+                EventDate = ui.Invitation.Event.Date,
                 EventName = ui.Invitation.Event.Name,
                 Location = ui.Invitation.Event.Location,
                 Description = ui.Invitation.Description,

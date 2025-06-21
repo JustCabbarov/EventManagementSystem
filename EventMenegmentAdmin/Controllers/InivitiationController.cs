@@ -48,6 +48,7 @@ namespace EventMenegmentUI.Controllers
             }
 
             var result =await _userInivitationService.UpdateUserAcceptInivitation(data);
+
             return RedirectToAction("Index", "Home");
 
         }

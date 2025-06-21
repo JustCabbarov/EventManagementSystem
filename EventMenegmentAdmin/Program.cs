@@ -33,10 +33,15 @@ namespace EventMenegmentAdmin
             builder.Services.AddScoped<IEventTypeSevice, EventTypeService>();
             builder.Services.AddAutoMapper(typeof(EventMenegmentSL.Profiles.CustomProfile));
             builder.Services.AddScoped<IInvitationService, InvitiationService>();
+            builder.Services.AddScoped<INotificationRepository, NotificationRepository>();
+            builder.Services.AddScoped<INotificationService,NotificationService>();
+            builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+
             builder.Services.AddScoped<IUserInivitationRepository, UserInivitationRepository>();
             builder.Services.AddScoped<IUserInivitationService, UserInvitationService>();
             builder.Services.AddScoped<IParticipationRepository, ParticipationRepository>();
             builder.Services.AddScoped<IParticipationService, ParticipationService>();
+            builder.Services.AddScoped<IQrCodeService, QrCodeService>();
 
 
             builder.Services.AddScoped<IInvitationRepository, InvitationRepository>();

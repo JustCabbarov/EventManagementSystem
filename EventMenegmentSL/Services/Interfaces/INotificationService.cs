@@ -14,7 +14,7 @@ namespace EventMenegmentSL.Services.Interfaces
         Task SendToAllUsersAsync(string email, string subject, string message);
 
 
-        
+        Task SendEmailWithQrAsync(string toEmail, string subject, string body, byte[] qrImage, string fileName);
 
 
     }
