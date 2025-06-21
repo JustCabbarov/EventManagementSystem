@@ -12,3 +12,4 @@ C:\Users\Huawei\Desktop\EventMenegment\EventMenegmentDL\obj\Debug\net8.0\ref\Eve
 C:\Users\Huawei\Desktop\EventMenegment\EventMenegmentDL\obj\Debug\net8.0\EventMenegmentDL.csproj.AssemblyReference.cache
 C:\Users\Huawei\Desktop\EventMenegment\EventMenegmentDL\bin\Debug\net8.0\EventMenegmentDL.runtimeconfig.json
 C:\Users\Huawei\Desktop\EventMenegment\EventMenegmentDL\obj\Debug\net8.0\EventMenegmentDL.genruntimeconfig.cache
+C:\Users\Huawei\Desktop\EventMenegment\EventMenegmentDL\obj\Debug\net8.0\EventMenegmentDL.sourcelink.json

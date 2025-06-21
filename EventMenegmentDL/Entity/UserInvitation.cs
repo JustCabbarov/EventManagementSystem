@@ -11,11 +11,11 @@
         public int InvitationId { get; set; }
         public Invitation Invitation { get; set; }
 
-        public string? UserId { get; set; }
-        public AppUser? User { get; set; }
+        public string UserId { get; set; }
+        public AppUser User { get; set; }
 
         public DateTime SentAt { get; set; }
-        public bool? IsAccepted { get; set; }= null;
+        public InvitationStatus IsAccepted { get; set; } =InvitationStatus.Pending;
 
     }
 

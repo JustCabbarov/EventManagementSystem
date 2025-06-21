@@ -8,6 +8,7 @@ namespace EventMenegmentSL.Services.Interfaces
 
         public Task<List<ParticipationViewModel>> GetAllProductWithIncludes();
         public Task<ParticipationViewModel> GetByIdProductWithIncludes(int id);
+        public Task<List<ParticipationViewModel>> GetParticipationsByUserId(string userId);
         public Task<ParticipationViewModel> UpdateAsync(ParticipationViewModel product);
 
 

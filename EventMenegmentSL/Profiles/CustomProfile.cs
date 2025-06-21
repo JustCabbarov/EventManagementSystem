@@ -20,7 +20,9 @@ namespace EventMenegmentSL.Profiles
 
             CreateMap<Participation, ParticipationViewModel>().ReverseMap();
             CreateMap<UserInvitation, UserInvitationViewModel>().ReverseMap();
-     
+            CreateMap<Participation, ParticipationViewModel>().ReverseMap();
+
+
 
 
         }

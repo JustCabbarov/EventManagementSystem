@@ -38,7 +38,7 @@ namespace EventMenegmentUser
             builder.Services.AddScoped<INotificationRepository, NotificationRepository>();
             builder.Services.AddScoped<INotificationService, NotificationService>();
             builder.Services.AddScoped<IInvitationRepository, InvitationRepository>();
-            builder.Services.AddScoped<IUserInivitationRepository, UserInivitationService>();
+            builder.Services.AddScoped<IUserInivitationRepository, UserInivitationRepository>();
             builder.Services.AddScoped<IUserInivitationService, UserInvitationService>();
 
             builder.Services.AddScoped<IInvitationService, InvitiationService>();

@@ -67,7 +67,7 @@ namespace EventMenegmentSL.Services.Implementation
                     InvitationId = invitation.Id,
                     UserId = userId,
                     SentAt = DateTime.UtcNow,
-                    IsAccepted = null
+                    IsAccepted = InvitationStatus.Pending,
                 };
                 await _userInvitationRepo.AddAsync(userInvitation);
             }

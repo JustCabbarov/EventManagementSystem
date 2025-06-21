@@ -1,5 +1,8 @@
-﻿using EventMenegmentSL.Services.Interfaces;
+﻿using EventMenegmentDL.Entity;
+using EventMenegmentSL.Services.Interfaces;
+using EventMenegmentSL.ViewModel;
 using EventMenegmentUI.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EventMenegmentUI.Controllers
@@ -7,13 +10,15 @@ namespace EventMenegmentUI.Controllers
     public class InivitiationController : Controller
     {
        private readonly IUserInivitationService _userInivitationService;
-
+        
         public InivitiationController(IUserInivitationService userInivitationService)
         {
             _userInivitationService = userInivitationService;
+
+            
         }
 
-     
+
         public async Task<IActionResult> Index(string UserId)
         {
            var data = await _userInivitationService.GetByIdUserInivitation(UserId);
@@ -24,7 +29,7 @@ namespace EventMenegmentUI.Controllers
                 Description= ui.Description,
                 Title= ui.Title,
                 EventDate= ui.EventDate,
-                EventLocation= ui.Location,
+                EventLocation= ui.Location.Name,
                 EventName= ui.EventName,
                 
 
@@ -58,5 +63,7 @@ namespace EventMenegmentUI.Controllers
             return RedirectToAction("Index", "Home");
 
         }
+
+  
     }
 }

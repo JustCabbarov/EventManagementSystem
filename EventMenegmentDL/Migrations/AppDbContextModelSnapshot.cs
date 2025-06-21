@@ -403,18 +403,21 @@ namespace EventMenegmentDL.Migrations
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
 
-                    b.Property<int>("IvitationId")
-                        .HasColumnType("int");
-
                     b.Property<int>("SeatNumber")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
                     b.HasKey("Id");
 
                     b.HasIndex("InvitationId");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Participations");
                 });
@@ -436,8 +439,8 @@ namespace EventMenegmentDL.Migrations
                     b.Property<int>("InvitationId")
                         .HasColumnType("int");
 
-                    b.Property<bool?>("IsAccepted")
-                        .HasColumnType("bit");
+                    b.Property<int>("IsAccepted")
+                        .HasColumnType("int");
 
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
@@ -449,7 +452,6 @@ namespace EventMenegmentDL.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("UserId")
-                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
@@ -670,7 +672,15 @@ namespace EventMenegmentDL.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("EventMenegmentDL.Entity.AppUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Invitation");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("EventMenegmentDL.Entity.UserInvitation", b =>
@@ -687,9 +697,7 @@ namespace EventMenegmentDL.Migrations
 
                     b.HasOne("EventMenegmentDL.Entity.AppUser", "User")
                         .WithMany("UserInvitations")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("UserId");
 
                     b.Navigation("Invitation");
 

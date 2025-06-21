@@ -31,6 +31,15 @@ namespace EventMenegmentDL.Repository.Implementation
             return data;
         }
 
+        public Task<List<Participation>> GetParticipationsByUserId(string userId)
+        {
+            var data= _context.Participations.Where(pr=>pr.UserId==userId).Include(p => p.Invitation)
+                                               .ThenInclude(p => p.Event)
+                                               .ThenInclude(p => p.Participants)
+                                               .ToListAsync();
+            return data;
+        }
+
         public async Task<Participation> UpdateAsync(Participation product)
         {
             var existingParticipation = await _context.Participations.FindAsync(product.Id);

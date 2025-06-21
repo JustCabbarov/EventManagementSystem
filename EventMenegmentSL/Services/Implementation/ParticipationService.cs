@@ -29,6 +29,13 @@ namespace EventMenegmentSL.Services.Implementation
             return _mapper.Map<ParticipationViewModel>(data);
         }
 
+        public async Task<List<ParticipationViewModel>> GetParticipationsByUserId(string userId)
+        {
+            var data = await _participationRepository.GetParticipationsByUserId(userId);
+            return _mapper.Map<List<ParticipationViewModel>>(data);
+             
+        }
+
         public async Task<ParticipationViewModel> UpdateAsync(ParticipationViewModel product)
         {
             var data = _mapper.Map<Participation>(product);

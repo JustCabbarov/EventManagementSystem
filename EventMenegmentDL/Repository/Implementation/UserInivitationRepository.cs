@@ -10,11 +10,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace EventMenegmentDL.Repository.Implementation
 {
-    public class UserInivitationService : GenericRepository<UserInvitation>, IUserInivitationRepository
+    public class UserInivitationRepository : GenericRepository<UserInvitation>, IUserInivitationRepository
     {
         private readonly AppDbContext _context;
 
-        public UserInivitationService(AppDbContext context) : base(context)
+        public UserInivitationRepository(AppDbContext context) : base(context)
         {
             _context = context;
         }
@@ -25,36 +25,50 @@ namespace EventMenegmentDL.Repository.Implementation
             await _context.SaveChangesAsync();
         }
 
+
         public Task<UserInvitation> GetByInvitationIdAsync(int invitationId)
         {
             return _context.UserInvitations
-                .Where(ui => ui.InvitationId == invitationId && ui.IsAccepted==null)
-                .Include(ui => ui.Invitation).ThenInclude(e => e.Event).ThenInclude(l => l.Location)
+                .Where(ui => ui.Id == invitationId && ui.IsAccepted == InvitationStatus.Pending)
+                .Include(ui => ui.Invitation)
+                    .ThenInclude(e => e.Event)
+                        .ThenInclude(l => l.Location)
                 .FirstOrDefaultAsync();
         }
 
+
+
         public async Task<List<UserInvitation>> GetByUserIdAsync(string userId)
         {
-            return await _context.UserInvitations
-                .Where(ui => ui.UserId == userId)
-                .Include(ui => ui.Invitation).ThenInclude(e=>e.Event).ThenInclude(l=>l.Location).ToListAsync();
-                
+            var data = await _context.UserInvitations
+            .Where(x => x.UserId == userId )
+             .Include(i => i.User)        
+              .Include(i => i.Invitation)
+               .ThenInclude(inv => inv.Event)
+                 .ThenInclude(evt => evt.Location)
+                     .ToListAsync();
+             return data;
+
         }
+
+
+
+
 
         public async Task<UserInvitation> UpdateUserAcceptInivitation(UserInvitation userInvitation)
         {
-          var data =await _context.UserInvitations.FirstOrDefaultAsync(ui => ui.Id == userInvitation.Id);
+            var data = await _context.UserInvitations.FirstOrDefaultAsync(ui => ui.Id == userInvitation.Id);
             if (data == null)
             {
                 return null;
             }
-            data.IsAccepted = true;
+            data.IsAccepted = InvitationStatus.Accepted; ;
 
-          await  _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
             return data;
         }
 
-        public async  Task<UserInvitation> UpdateUserDeclineInivitation(UserInvitation userInvitation)
+        public async Task<UserInvitation> UpdateUserDeclineInivitation(UserInvitation userInvitation)
         {
 
             var data = await _context.UserInvitations.FirstOrDefaultAsync(ui => ui.Id == userInvitation.Id);
@@ -62,11 +76,11 @@ namespace EventMenegmentDL.Repository.Implementation
             {
                 return null;
             }
-            data.IsAccepted = false;
+            data.IsAccepted = InvitationStatus.Rejected;
 
             await _context.SaveChangesAsync();
             return data;
-        
-         }
+
+        }
     }
 }

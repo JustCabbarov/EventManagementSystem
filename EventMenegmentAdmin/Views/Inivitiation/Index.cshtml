@@ -6,6 +6,12 @@
 }
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+@if (Model == null || !Model.Any())
+{
+    <p style="text-align:center; font-weight:bold; color:#555; font-size:40px">Heç bir Dəvət yoxdur.</p>
+}
+else
+{
 @foreach(var item in Model)
 {
     <div class="container mt-5">
@@ -30,5 +36,5 @@
             </div>
         </div>
     </div>
-}
+}}
 

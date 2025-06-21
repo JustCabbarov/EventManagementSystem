@@ -32,7 +32,7 @@ namespace EventMenegmentSL.Services.Implementation
             {
                 return null;
             }
-            var invitations =data.Where(ui=>ui.IsAccepted==null).Select(ui=> new UserInvitationViewModel
+            var invitations =data.Where(ui=>ui.IsAccepted==InvitationStatus.Pending).Select(ui=> new UserInvitationViewModel
             {
                 Id = ui.Id,
                 InvitationId = ui.InvitationId,
@@ -40,7 +40,7 @@ namespace EventMenegmentSL.Services.Implementation
                 Title = ui.Invitation.Title,
                 EventDate = ui.Invitation.EventDate,
                 EventName = ui.Invitation.Event.Name,
-                 Location= ui.Invitation.Event.Location.Name,
+                 Location= ui.Invitation.Event.Location,
                 Description = ui.Invitation.Description,
 
                 SentAt = ui.SentAt,
@@ -49,6 +49,34 @@ namespace EventMenegmentSL.Services.Implementation
             return invitations;
 
 
+
+        }
+
+        public async Task<List<UserInvitationViewModel>> GetByInivitationForParticipation(string UserId)
+        {
+
+            var data = await _userInvitationRepo.GetByUserIdAsync(UserId);
+            if (data == null)
+            {
+                return null;
+            }
+            var invitations = data.Where(ui => ui.IsAccepted == InvitationStatus.Accepted).Select(ui => new UserInvitationViewModel
+            {
+                Id = ui.Id,
+                InvitationId = ui.InvitationId,
+                User=ui.User,
+                UserId = ui.UserId,
+                Title = ui.Invitation.Title,
+                EventDate = ui.Invitation.EventDate,
+                EventName = ui.Invitation.Event.Name,
+                Location = ui.Invitation.Event.Location,
+                Description = ui.Invitation.Description,
+               IsAccepted = ui.IsAccepted,
+               Capacity=ui.Invitation.Event.Location.Capacity,
+                SentAt = ui.SentAt,
+
+            }).ToList();
+            return invitations;
 
         }
 
@@ -67,7 +95,7 @@ namespace EventMenegmentSL.Services.Implementation
                 Title = data.Invitation.Title,
                 EventDate = data.Invitation.EventDate,
                 EventName = data.Invitation.Event.Name,
-                Location = data.Invitation.Event.Location.Name,
+                Location = data.Invitation.Event.Location,
                 Description = data.Invitation.Description,
 
                 SentAt = data.SentAt,
