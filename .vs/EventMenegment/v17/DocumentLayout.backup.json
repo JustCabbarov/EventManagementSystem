@@ -1,0 +1,2089 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\entity\\participation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\entity\\participation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\entity\\userinvitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\entity\\userinvitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\controllers\\inivitiationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\controllers\\inivitiationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\implementation\\userinvitaitonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\implementation\\userinvitaitonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\implementation\\userinivitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\implementation\\userinivitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\implementation\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\implementation\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\implementation\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\implementation\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\entity\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\entity\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\interfaces\\iuserinivitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\interfaces\\iuserinivitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\interfaces\\iuserinivitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\interfaces\\iuserinivitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\implementation\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\implementation\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\views\\inivitiation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\views\\inivitiation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\viewmodel\\userinvitationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\viewmodel\\userinvitationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\implementation\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\implementation\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\implementation\\eventtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\implementation\\eventtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\implementation\\eventtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\implementation\\eventtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\implementation\\invitiationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\implementation\\invitiationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\implementation\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\implementation\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\interfaces\\iparticipationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\interfaces\\iparticipationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\eventmenegmentsl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\eventmenegmentsl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\controllers\\\u0130nivitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\controllers\\\u0130nivitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\implementation\\invitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\implementation\\invitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\entity\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\entity\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\eventmenegmentdl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\eventmenegmentdl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\interfaces\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\interfaces\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\viewmodel\\invitationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\viewmodel\\invitationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\models\\inivitationacceptviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\models\\inivitationacceptviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\interfaces\\iinvitiationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\interfaces\\iinvitiationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\interfaces\\iinvitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\interfaces\\iinvitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\interfaces\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\interfaces\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\invitation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\invitation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\controllers\\organizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\controllers\\organizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\interfaces\\iorganizerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\interfaces\\iorganizerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\eventmenegmentadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\eventmenegmentadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\entity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\entity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\viewmodel\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\viewmodel\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\viewmodel\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\viewmodel\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\entity\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\entity\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\dto\\organizerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\dto\\organizerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\viewmodel\\organizerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\viewmodel\\organizerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\views\\location\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\views\\location\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\models\\locationdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\models\\locationdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\entity\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\entity\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\viewmodel\\locationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\viewmodel\\locationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\implementation\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\implementation\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\entity\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\entity\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\implementation\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\implementation\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\organizer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\organizer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\organizer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\organizer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\eventtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\eventtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\users\\assignrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\users\\assignrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\models\\assignroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\models\\assignroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\models\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\models\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\eventmenegmentui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\eventmenegmentui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\entity\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\entity\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentadmin\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17627DF3-503E-4F5F-AE44-ED2C97A6A353}|EventMenegmentAdmin\\EventMenegmentUI.csproj|solutionrelative:eventmenegmentadmin\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\implementation\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\implementation\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\entity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\entity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\implementation\\organizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\implementation\\organizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\implementation\\organizerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\implementation\\organizerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\viewmodel\\notificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\viewmodel\\notificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\location\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\location\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\location\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\location\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\location\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\location\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\location\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\interfaces\\ieventtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\interfaces\\ieventtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\eventtype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\eventtype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\eventtype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\eventtype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentuser\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E4AF89-EDD3-487E-A69E-9EF608237A69}|EventMenegmentUser\\EventMenegmentAdmin.csproj|solutionrelative:eventmenegmentuser\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\implementation\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\implementation\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\interfaces\\ieventtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\interfaces\\ieventtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\interfaces\\iorganizerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\interfaces\\iorganizerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentdl\\repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748118DA-5908-403A-9183-F70B4BEF5FC6}|EventMenegmentDL\\EventMenegmentDL.csproj|solutionrelative:eventmenegmentdl\\repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|c:\\users\\huawei\\desktop\\eventmenegment\\eventmenegmentsl\\services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2745880C-04D9-489C-B94A-84DAC377441B}|EventMenegmentSL\\EventMenegmentSL.csproj|solutionrelative:eventmenegmentsl\\services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InivitiationController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Controllers\\InivitiationController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Controllers\\InivitiationController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Controllers\\InivitiationController.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Controllers\\InivitiationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:26:13.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\EventRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Implementation\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\EventRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Implementation\\EventRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:44:06.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\EventService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Implementation\\EventService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\EventService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Implementation\\EventService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:33:42.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:36:31.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInvitation.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\UserInvitation.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Entity\\UserInvitation.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\UserInvitation.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Entity\\UserInvitation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:08:28.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Participation.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Participation.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Entity\\Participation.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Participation.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Entity\\Participation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:16:00.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInvitaitonService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\UserInvitaitonService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Implementation\\UserInvitaitonService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\UserInvitaitonService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Implementation\\UserInvitaitonService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAD4v00AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:38:36.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:53:07.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserInivitationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\UserInivitationRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Implementation\\UserInivitationRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\UserInivitationRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Implementation\\UserInivitationRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAtwDgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:02:05.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Event.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Entity\\Event.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Event.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Entity\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:46:45.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Program.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Program.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:16:26.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserInivitationService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IUserInivitationService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Interfaces\\IUserInivitationService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IUserInivitationService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Interfaces\\IUserInivitationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:03:43.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserInivitationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IUserInivitationRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Interfaces\\IUserInivitationRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IUserInivitationRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Interfaces\\IUserInivitationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:09:01.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Implementation\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:42:05.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Inivitiation\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Views\\Inivitiation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Inivitiation\\Index.cshtml",
+              "RelativeToolTip": "EventMenegmentAdmin\\Views\\Inivitiation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T22:42:38.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\GenericService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Implementation\\GenericService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\GenericService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Implementation\\GenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:26:54.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "EventMenegmentAdmin\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T13:26:57.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserInvitationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\UserInvitationViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\ViewModel\\UserInvitationViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\UserInvitationViewModel.cs",
+              "RelativeToolTip": "EventMenegmentSL\\ViewModel\\UserInvitationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:22:21.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Profiles\\CustomProfile.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Profiles\\CustomProfile.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Profiles\\CustomProfile.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Profiles\\CustomProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:37:09.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Implementation\\FeedbackService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\FeedbackService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Implementation\\FeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:59:52.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\EventTypeService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Implementation\\EventTypeService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\EventTypeService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Implementation\\EventTypeService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:53:39.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\EventTypeRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Implementation\\EventTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\EventTypeRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Implementation\\EventTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:56:33.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InvitiationService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\InvitiationService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Implementation\\InvitiationService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\InvitiationService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Implementation\\InvitiationService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:05:10.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\LocationService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Implementation\\LocationService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\LocationService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Implementation\\LocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:08:56.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IParticipationService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IParticipationService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Interfaces\\IParticipationService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IParticipationService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Interfaces\\IParticipationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:14:54.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv2gAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:19:18.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Program.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Program.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Program.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:16:11.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventMenegmentSL.csproj",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\EventMenegmentSL.csproj",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\EventMenegmentSL.csproj",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\EventMenegmentSL.csproj",
+              "RelativeToolTip": "EventMenegmentSL\\EventMenegmentSL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T12:18:51.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Events\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Views\\Events\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Events\\Details.cshtml",
+              "RelativeToolTip": "EventMenegmentAdmin\\Views\\Events\\Details.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAMwEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T21:11:25.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "\u0130nivitationController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\\u0130nivitationController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Controllers\\\u0130nivitationController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\\u0130nivitationController.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Controllers\\\u0130nivitationController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:24:30.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InvitationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\InvitationRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Implementation\\InvitationRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\InvitationRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Implementation\\InvitationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:28:19.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Invitation.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Invitation.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Entity\\Invitation.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Invitation.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Entity\\Invitation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:28:46.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EventMenegmentDL.csproj",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\EventMenegmentDL.csproj",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\EventMenegmentDL.csproj",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\EventMenegmentDL.csproj",
+              "RelativeToolTip": "EventMenegmentDL\\EventMenegmentDL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T21:30:35.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T21:36:15.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Interfaces\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Interfaces\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:26:44.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ILocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\ILocationService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Interfaces\\ILocationService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\ILocationService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Interfaces\\ILocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:10:21.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA8wHAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:35:46.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InvitationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\InvitationViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\ViewModel\\InvitationViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\InvitationViewModel.cs",
+              "RelativeToolTip": "EventMenegmentSL\\ViewModel\\InvitationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:16:05.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InivitationAcceptViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\InivitationAcceptViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Models\\InivitationAcceptViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\InivitationAcceptViewModel.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Models\\InivitationAcceptViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:29:57.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Models\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:17:12.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IInvitiationService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IInvitiationService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Interfaces\\IInvitiationService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IInvitiationService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Interfaces\\IInvitiationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:42:17.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Interfaces\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IFeedbackRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Interfaces\\IFeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:04:46.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Interfaces\\ILocationRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\ILocationRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Interfaces\\ILocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:13:26.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IInvitationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IInvitationRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Interfaces\\IInvitationRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IInvitationRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Interfaces\\IInvitationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:11:03.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Invitation\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Invitation\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Invitation\\Create.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Invitation\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T21:26:45.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T13:49:54.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwEYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T23:01:06.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Event\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Event\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T22:34:55.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:25:51.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\DTO\\EventDTO.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\DTO\\EventDTO.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\DTO\\EventDTO.cs",
+              "RelativeToolTip": "EventMenegmentUser\\DTO\\EventDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:51:46.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:02:14.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EventTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\EventTypeController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Controllers\\EventTypeController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\EventTypeController.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Controllers\\EventTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:36:25.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\appsettings.json",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\appsettings.json",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\appsettings.json",
+              "RelativeToolTip": "EventMenegmentUser\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T21:56:42.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrganizerController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\OrganizerController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Controllers\\OrganizerController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\OrganizerController.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Controllers\\OrganizerController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIAywFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:30:21.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T21:58:13.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\appsettings.json",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\appsettings.json",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\appsettings.json",
+              "RelativeToolTip": "EventMenegmentAdmin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T22:28:24.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T21:57:57.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAD4vz8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:57:11.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IOrganizerService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IOrganizerService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Interfaces\\IOrganizerService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IOrganizerService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Interfaces\\IOrganizerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:13:35.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EventMenegmentAdmin.csproj",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\EventMenegmentAdmin.csproj",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\EventMenegmentAdmin.csproj",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\EventMenegmentAdmin.csproj",
+              "RelativeToolTip": "EventMenegmentUser\\EventMenegmentAdmin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T14:33:53.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\AppUser.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Entity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\AppUser.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Entity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:30:36.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FeedbackViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\FeedbackViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\ViewModel\\FeedbackViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\FeedbackViewModel.cs",
+              "RelativeToolTip": "EventMenegmentSL\\ViewModel\\FeedbackViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:20:22.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Feedback.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Entity\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Feedback.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Entity\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:31:37.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EventViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\EventViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\ViewModel\\EventViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\EventViewModel.cs",
+              "RelativeToolTip": "EventMenegmentSL\\ViewModel\\EventViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:49:10.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "OrganizerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\DTO\\OrganizerDTO.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\DTO\\OrganizerDTO.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\DTO\\OrganizerDTO.cs",
+              "RelativeToolTip": "EventMenegmentUser\\DTO\\OrganizerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:21:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OrganizerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\OrganizerViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\ViewModel\\OrganizerViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\OrganizerViewModel.cs",
+              "RelativeToolTip": "EventMenegmentSL\\ViewModel\\OrganizerViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:09:53.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Location\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Views\\Location\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Location\\Index.cshtml",
+              "RelativeToolTip": "EventMenegmentAdmin\\Views\\Location\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T21:53:21.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Location\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Views\\Location\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Location\\Details.cshtml",
+              "RelativeToolTip": "EventMenegmentAdmin\\Views\\Location\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T21:58:37.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "LocationDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\LocationDetailViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Models\\LocationDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\LocationDetailViewModel.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Models\\LocationDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:00:43.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "LocationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\LocationViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\ViewModel\\LocationViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\LocationViewModel.cs",
+              "RelativeToolTip": "EventMenegmentSL\\ViewModel\\LocationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:09:47.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "EventMenegmentAdmin\\Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T13:45:07.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EventMenegmentAdmin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T13:32:32.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Location.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Entity\\Location.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Location.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Entity\\Location.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:53:04.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Implementation\\LocationRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\LocationRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Implementation\\LocationRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:30:51.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:26:35.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Models\\SignInViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\SignInViewModel.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Models\\SignInViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:21:41.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:02:45.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T21:36:38.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwFgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T22:04:06.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Organizer.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Organizer.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Entity\\Organizer.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Organizer.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Entity\\Organizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:19:00.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T21:23:53.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:12:33.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\NotificationService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Implementation\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\NotificationService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Implementation\\NotificationService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:41:04.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:16:14.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Organizer\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Organizer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Organizer\\Index.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Organizer\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAF4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T10:20:52.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Organizer\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Organizer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Organizer\\Create.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Organizer\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T10:31:37.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Account\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Account\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Account\\SignIn.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Account\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T22:33:49.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "EventMenegmentAdmin\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T13:34:23.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Account\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Views\\Account\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Account\\SignIn.cshtml",
+              "RelativeToolTip": "EventMenegmentAdmin\\Views\\Account\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T13:21:26.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Models\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Models\\SignInViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Models\\SignInViewModel.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Models\\SignInViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:27:14.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Models\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Models\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Models\\RoleViewModel.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Models\\RoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:57:07.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Role\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Role\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T21:03:11.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Role\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T20:58:59.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\EventType\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\EventType\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\EventType\\Index.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\EventType\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAADwv04AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T23:39:13.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "AssignRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Users\\AssignRole.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Users\\AssignRole.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Users\\AssignRole.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Users\\AssignRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T21:44:32.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "AssignRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Models\\AssignRoleViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Models\\AssignRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Models\\AssignRoleViewModel.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Models\\AssignRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:33:30.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "EventMenegmentUI.csproj",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\EventMenegmentUI.csproj",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\EventMenegmentUI.csproj",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\EventMenegmentUI.csproj",
+              "RelativeToolTip": "EventMenegmentAdmin\\EventMenegmentUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T22:28:20.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\EventType.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Entity\\EventType.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\EventType.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Entity\\EventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:53:11.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventMenegmentAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T13:32:04.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentAdmin\\Models\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentAdmin\\Models\\SignUpViewModel.cs",
+              "RelativeToolTip": "EventMenegmentAdmin\\Models\\SignUpViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:22:32.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "INotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\INotificationRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Interfaces\\INotificationRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\INotificationRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Interfaces\\INotificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:14:30.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "NotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\NotificationRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Implementation\\NotificationRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\NotificationRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Implementation\\NotificationRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:37:32.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "OrganizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\OrganizeRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Implementation\\OrganizeRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\OrganizeRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Implementation\\OrganizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:45:08.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "OrganizerService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\OrganizerService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Implementation\\OrganizerService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Implementation\\OrganizerService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Implementation\\OrganizerService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:43:42.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Notification.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Entity\\Notification.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Entity\\Notification.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Entity\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:26:05.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "LocationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\DTO\\LocationDTO.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\DTO\\LocationDTO.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\DTO\\LocationDTO.cs",
+              "RelativeToolTip": "EventMenegmentUser\\DTO\\LocationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:40:37.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "NotificationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\NotificationViewModel.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\ViewModel\\NotificationViewModel.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\ViewModel\\NotificationViewModel.cs",
+              "RelativeToolTip": "EventMenegmentSL\\ViewModel\\NotificationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:17:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Location\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Location\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Location\\Index.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Location\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAIBJwDEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T00:39:35.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Location\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Location\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Location\\Details.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Location\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAADwv0cAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T08:31:26.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Location\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Location\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Location\\Edit.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Location\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T08:39:14.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Location\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Location\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Location\\Create.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Location\\Create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvzMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T00:46:45.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "IEventTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IEventTypeService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Interfaces\\IEventTypeService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IEventTypeService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Interfaces\\IEventTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:38:55.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\EventType\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\EventType\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\EventType\\Edit.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\EventType\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T23:52:18.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\EventType\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\EventType\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\EventType\\Create.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\EventType\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T23:53:23.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T23:55:11.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T21:55:18.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventMenegmentUser\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:59:18.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T21:55:54.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T21:56:46.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\appsettings.Development.json",
+              "RelativeToolTip": "EventMenegmentUser\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T22:28:15.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EventMenegmentUser\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentUser\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EventMenegmentUser\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T21:56:53.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Implementation\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Implementation\\FeedbackRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Implementation\\FeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:01:02.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "IEventTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IEventTypeRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Interfaces\\IEventTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IEventTypeRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Interfaces\\IEventTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:06:52.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Interfaces\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IEventRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Interfaces\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:05:43.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "IOrganizerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IOrganizerRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Interfaces\\IOrganizerRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IOrganizerRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Interfaces\\IOrganizerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:15:09.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Interfaces\\IEventService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Interfaces\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:40:30.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "EventMenegmentDL\\Repository\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentDL\\Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "EventMenegmentDL\\Repository\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:52:02.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "EventMenegmentSL\\Services\\Interfaces\\IFeedbackService.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\EventMenegment\\EventMenegmentSL\\Services\\Interfaces\\IFeedbackService.cs",
+              "RelativeToolTip": "EventMenegmentSL\\Services\\Interfaces\\IFeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:39:24.695Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

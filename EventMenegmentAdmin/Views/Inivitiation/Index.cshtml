@@ -1,0 +1,34 @@
+﻿@using EventMenegmentUI.Models
+@model IEnumerable<InivitationAcceptViewModel>
+
+@{
+    ViewData["Title"] = "Dəvət Detalları";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+@foreach(var item in Model)
+{
+    <div class="container mt-5">
+        <div class="card shadow">
+            <div class="card-header bg-primary text-white">
+                <h4>Dəvət: @item.Title</h4>
+            </div>
+            <div class="card-body">
+                <p><strong>Təsvir:</strong> @item.Description</p>
+                <p><strong>Tədbir adı:</strong> @item.EventName</p>
+                <p><strong>Tarix:</strong> @item.EventDate.ToString("dd.MM.yyyy HH:mm")</p>
+                <p><strong>Yer:</strong> @item.EventLocation</p>
+            </div>
+            <div class="card-footer text-end">
+                <form asp-controller="Inivitiation" asp-action="Accept" asp-route-id="@item.Id " method="post" class="d-inline">
+                    <button type="submit" class="btn btn-success">✅ Qəbul Et</button>
+                </form>
+
+                <form asp-controller="Inivitiation" asp-action="Decline" asp-route-id="@item.Id" method="post" class="d-inline">
+                    <button type="submit" class="btn btn-danger">❌ Rədd Et</button>
+                </form>
+            </div>
+        </div>
+    </div>
+}
+

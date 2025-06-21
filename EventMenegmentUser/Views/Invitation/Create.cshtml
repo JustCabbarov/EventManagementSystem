@@ -1,0 +1,35 @@
+﻿@using EventMenegmentSL.ViewModel
+@model InvitationViewModel
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger small"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger small"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="EventId"></label>
+        <select asp-for="EventId" class="form-select"
+                asp-items="@(new SelectList(Model.Events, "Id", "Name"))">
+            <option selected hidden value="">-- Select Event --</option>
+        </select>
+        <span asp-validation-for="EventId" class="text-danger small"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SelectedUserIds"></label>
+        <select asp-for="SelectedUserIds" multiple class="form-select"
+                asp-items="@(new SelectList(Model.Users, "Id", "FullName"))">
+        </select>
+        <span asp-validation-for="SelectedUserIds" class="text-danger small"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Dəvət yarat</button>
+</form>
