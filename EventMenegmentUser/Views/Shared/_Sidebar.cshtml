@@ -27,6 +27,9 @@
 
 			</li>
 		}
+
+		@if (User.IsInRole("Admin"))
+		{
 		
 		<li class="nav-item mb-3">
 			<a class="nav-link collapsed mt-2"asp-controller="Location" asp-action="Index" data-toggle="collapse" data-target="#collapseBook"
@@ -38,7 +41,7 @@
 	
 	
 	</li>
-	
+		}
 		<li class="nav-item mb-3">
 			<a class="nav-link collapsed mt-2"asp-controller="Organizer" asp-action="Index" data-toggle="collapse" data-target="#collapseBook"
 		   aria-expanded="true" aria-controls="collapseBook">
@@ -50,7 +53,9 @@
 	
 	</li>
 	
-	</li>
+	@if (User.IsInRole("Admin"))
+		{
+		
 	
 		<li class="nav-item mb-3">
 			<a class="nav-link collapsed mt-2"asp-controller="Role" asp-action="Index" data-toggle="collapse" data-target="#collapseBook"
@@ -62,6 +67,7 @@
 	
 	
 	</li>
+		}
 	</li>
 	
 		<li class="nav-item mb-3">

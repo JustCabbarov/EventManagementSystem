@@ -36,7 +36,8 @@ namespace EventMenegmentAdmin
             builder.Services.AddScoped<INotificationRepository, NotificationRepository>();
             builder.Services.AddScoped<INotificationService,NotificationService>();
             builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-
+            builder.Services.AddScoped<IOrganizerRepository, OrganizeRepository>();
+            builder.Services.AddScoped<IOrganizerService, OrganizerService>();
             builder.Services.AddScoped<IUserInivitationRepository, UserInivitationRepository>();
             builder.Services.AddScoped<IUserInivitationService, UserInvitationService>();
             builder.Services.AddScoped<IParticipationRepository, ParticipationRepository>();
